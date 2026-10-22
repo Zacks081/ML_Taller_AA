@@ -1,0 +1,10 @@
+# Base de datos (el calificador la reconstruye con el script del curso)
+data/
+*.duckdb
+
+# Entorno y temporales
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
