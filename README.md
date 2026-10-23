@@ -3,7 +3,7 @@
 Módulo 0 (datos, calidad y EDA) y Módulo A (clasificación de entregas tardías)
 sobre el dataset Olist cargado en DuckDB.
 
-**Integrantes:** Nombre 1 · Nombre 2 · Nombre 3
+**Integrantes:** Santiago Vélez - Santiago Betancur - Juan Diego Robles - Juan Pablo Jimenez
 
 ## Estructura
 
